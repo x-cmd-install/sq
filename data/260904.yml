@@ -7,7 +7,7 @@ about:
   head: 97fbb91
   archived: false
   latestVersion: v0.54.1
-  collectedAt: 2026-09-04T19:32:49Z
+  collectedAt: 2026-09-04T20:57:28Z
 timeline:
   created: 2016-02-16
   lastCommit: 2026-08-29
@@ -89,6 +89,114 @@ total:
   openIssue: 60
   commit: 1593
 ---
+path: /home/runner/.x-repo/github.com/neilotoole/sq
+collectedAt: 2026-09-04T20:57:40Z
+loc:
+  Json:
+    code: 1349377
+    comments: 0
+    blanks: 0
+    files: 16
+  Sql:
+    code: 464097
+    comments: 494
+    blanks: 262
+    files: 26
+  Go:
+    code: 165025
+    comments: 31902
+    blanks: 30021
+    files: 745
+  Html:
+    code: 3609
+    comments: 61
+    blanks: 124
+    files: 70
+  Sass:
+    code: 3067
+    comments: 389
+    blanks: 670
+    files: 26
+  Css:
+    code: 2503
+    comments: 5
+    blanks: 0
+    files: 1
+  Cython:
+    code: 1840
+    comments: 27
+    blanks: 1
+    files: 4
+  Sh:
+    code: 1353
+    comments: 436
+    blanks: 304
+    files: 34
+  Xml:
+    code: 1075
+    comments: 0
+    blanks: 9
+    files: 9
+  JavaScript:
+    code: 771
+    comments: 177
+    blanks: 123
+    files: 25
+  Yaml:
+    code: 617
+    comments: 63
+    blanks: 64
+    files: 29
+  Toml:
+    code: 474
+    comments: 103
+    blanks: 86
+    files: 13
+  Bash:
+    code: 461
+    comments: 208
+    blanks: 87
+    files: 2
+  Makefile:
+    code: 236
+    comments: 67
+    blanks: 47
+    files: 2
+  TypeScript:
+    code: 137
+    comments: 24
+    blanks: 16
+    files: 1
+  Ruby:
+    code: 57
+    comments: 3
+    blanks: 8
+    files: 1
+  Dockerfile:
+    code: 47
+    comments: 26
+    blanks: 17
+    files: 2
+  Svg:
+    code: 4
+    comments: 1
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 10257
+    blanks: 3691
+    files: 130
+  Text:
+    code: 0
+    comments: 2383
+    blanks: 543
+    files: 117
+total:
+  code: 2000547
+  comments: 47119
+  blanks: 36562
+  files: 1254
 ---
 date: "2026-08-24"
 repo:
