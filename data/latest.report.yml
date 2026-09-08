@@ -5,7 +5,7 @@ about:
   head: d4ada08
   archived: false
   latestVersion: "v0.54.1"
-  collectedAt: 2026-09-08T02:28:41Z
+  collectedAt: 2026-09-08T05:14:47Z
 timeline:
   created: 2016-02-16
   lastCommit: 2026-09-07
@@ -88,7 +88,7 @@ total:
   commit: 1611
 ---
 path: /home/runner/.x-repo/github.com/neilotoole/sq
-collectedAt: 2026-09-08T02:28:50Z
+collectedAt: 2026-09-08T05:14:57Z
 loc:
   Json:
     code: 1349377
