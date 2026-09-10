@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1226,
       "digest": "sha256:7c75d8b7401325843d618f9d3e733548d6cbeb621859ace533560d4d5e114da5",
-      "download_count": 13,
+      "download_count": 16,
       "created_at": "2026-09-10T02:14:38Z",
       "updated_at": "2026-09-10T02:14:38Z",
       "browser_download_url": "https://github.com/neilotoole/sq/releases/download/v0.55.0/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 41563834,
       "digest": "sha256:38d6bb91c0fafd15f99f4d84f5792804d5b44041696f929bdee1bd5ed76e4a28",
-      "download_count": 15,
+      "download_count": 36,
       "created_at": "2026-09-10T02:14:33Z",
       "updated_at": "2026-09-10T02:14:34Z",
       "browser_download_url": "https://github.com/neilotoole/sq/releases/download/v0.55.0/sq-0.55.0-linux-amd64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 38584417,
       "digest": "sha256:3a99e6b1ac6f2802ce620de453259b5fc9946f52c4b8ae13e93e0c9f2722dfcc",
-      "download_count": 5,
+      "download_count": 10,
       "created_at": "2026-09-10T02:14:33Z",
       "updated_at": "2026-09-10T02:14:35Z",
       "browser_download_url": "https://github.com/neilotoole/sq/releases/download/v0.55.0/sq-0.55.0-linux-arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 39850320,
       "digest": "sha256:05aedd7ec6f321fc62945ba7fde83ae068f9af605813c871cb496b282660b383",
-      "download_count": 2,
+      "download_count": 5,
       "created_at": "2026-09-10T02:14:33Z",
       "updated_at": "2026-09-10T02:14:34Z",
       "browser_download_url": "https://github.com/neilotoole/sq/releases/download/v0.55.0/sq-0.55.0-macos-amd64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 37554343,
       "digest": "sha256:2fefea08a0005146cf85ed59c6625a9561b4ad85b25e06d6c63fbd2be1137e41",
-      "download_count": 7,
+      "download_count": 34,
       "created_at": "2026-09-10T02:14:34Z",
       "updated_at": "2026-09-10T02:14:36Z",
       "browser_download_url": "https://github.com/neilotoole/sq/releases/download/v0.55.0/sq-0.55.0-macos-arm64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 41518579,
       "digest": "sha256:306e386aad133151ea6b3c8472673bcab69f008fd8a3d0d528353210a47f6de1",
-      "download_count": 5,
+      "download_count": 46,
       "created_at": "2026-09-10T02:14:33Z",
       "updated_at": "2026-09-10T02:14:34Z",
       "browser_download_url": "https://github.com/neilotoole/sq/releases/download/v0.55.0/sq-0.55.0-windows-amd64.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 41638902,
       "digest": "sha256:1c52790bf6953e64a29b5f6a3aaf228cce9ab2a8e00b26e6099de408def69ed7",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-10T02:14:38Z",
       "updated_at": "2026-09-10T02:14:39Z",
       "browser_download_url": "https://github.com/neilotoole/sq/releases/download/v0.55.0/sq_0.55.0_linux_amd64.deb"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 39612437,
       "digest": "sha256:4b75f30e84c5f43173dcb03058e6461740e6ca06d9d953bb7df523c54ec36d7d",
-      "download_count": 3,
+      "download_count": 6,
       "created_at": "2026-09-10T02:14:34Z",
       "updated_at": "2026-09-10T02:14:36Z",
       "browser_download_url": "https://github.com/neilotoole/sq/releases/download/v0.55.0/sq_0.55.0_linux_arm64.apk"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 38643460,
       "digest": "sha256:3eab66e917050cbee5bde44adc14dfbc665a498c845b6fbfa5df999ac357ccfb",
-      "download_count": 2,
+      "download_count": 4,
       "created_at": "2026-09-10T02:14:37Z",
       "updated_at": "2026-09-10T02:14:38Z",
       "browser_download_url": "https://github.com/neilotoole/sq/releases/download/v0.55.0/sq_0.55.0_linux_arm64.deb"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 36065130,
       "digest": "sha256:c86632eec2621b77f53b6268621981cbda1200440bcd3f726bf5d7f90f3a875b",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-10T02:14:37Z",
       "updated_at": "2026-09-10T02:14:38Z",
       "browser_download_url": "https://github.com/neilotoole/sq/releases/download/v0.55.0/sq_0.55.0_linux_arm64.pkg.tar.zst"
@@ -543,5 +543,17 @@
   ],
   "tarball_url": "https://api.github.com/repos/neilotoole/sq/tarball/v0.55.0",
   "zipball_url": "https://api.github.com/repos/neilotoole/sq/zipball/v0.55.0",
-  "body": "### Added\r\n\r\n- [#986]: [`sq driver ls`](https://sq.io/docs/cmd/driver-ls) with `-j` / `-y` now reports an `is_embedded_sql` field for each driver, `true` for the in-process SQL  drivers (SQLite, DuckDB) and `false` for the networked engines (including rqlite,  which is SQLite-backed but reached over HTTP) and non-SQL drivers.\r\n\r\n### Changed\r\n\r\n- ☢️ [#1136]: In JSON output, a backspace or form feed inside a string value is now written using  its two-character short escape instead of the six-character numeric escape. This aligns `sq` with  the behavior of `encoding/json` since [Go 1.22](https://go.dev/doc/go1.22#encoding/json). Both  spellings decode to the same string, so anything that parses `sq`'s JSON is unaffected, and only  output containing one of those two characters changes at all. Stored fixtures, golden files or  checksums that compare `sq`'s JSON byte-for-byte may need regenerating.\r\n\r\n### Fixed\r\n\r\n- [#975]: A join across two sources could fail with `database is locked` when  large tables were copied into the temporary join database.\r\n- [#1017]: A canceled or failed table copy or ingest could commit a partially-written  table instead of rolling back.\r\n- [#976], [#994]: The DuckDB driver now correctly quotes table, column, and schema  names that contain a double quote (e.g. a `we\"ird` table created from a CSV  header), completing the identifier-quoting fix [#821] applied to SQLite and rqlite.\r\n- [#968]: Aligned the SQLite and DuckDB Sakila test fixtures with the canonical  schema used by the other drivers."
+  "body": "### Added\r\n\r\n- [#986]: [`sq driver ls`](https://sq.io/docs/cmd/driver-ls) with `-j` / `-y` now reports an `is_embedded_sql` field for each driver, `true` for the in-process SQL  drivers (SQLite, DuckDB) and `false` for the networked engines (including rqlite,  which is SQLite-backed but reached over HTTP) and non-SQL drivers.\r\n\r\n### Changed\r\n\r\n- ☢️ [#1136]: In JSON output, a backspace or form feed inside a string value is now written using  its two-character short escape instead of the six-character numeric escape. This aligns `sq` with  the behavior of `encoding/json` since [Go 1.22](https://go.dev/doc/go1.22#encoding/json). Both  spellings decode to the same string, so anything that parses `sq`'s JSON is unaffected, and only  output containing one of those two characters changes at all. Stored fixtures, golden files or  checksums that compare `sq`'s JSON byte-for-byte may need regenerating.\r\n\r\n### Fixed\r\n\r\n- [#975]: A join across two sources could fail with `database is locked` when  large tables were copied into the temporary join database.\r\n- [#1017]: A canceled or failed table copy or ingest could commit a partially-written  table instead of rolling back.\r\n- [#976], [#994]: The DuckDB driver now correctly quotes table, column, and schema  names that contain a double quote (e.g. a `we\"ird` table created from a CSV  header), completing the identifier-quoting fix [#821] applied to SQLite and rqlite.\r\n- [#968]: Aligned the SQLite and DuckDB Sakila test fixtures with the canonical  schema used by the other drivers.",
+  "reactions": {
+    "url": "https://api.github.com/repos/neilotoole/sq/releases/385960435/reactions",
+    "total_count": 1,
+    "+1": 1,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 0,
+    "eyes": 0
+  }
 }
