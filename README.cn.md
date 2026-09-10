@@ -4,42 +4,13 @@
 
 sq data wrangler
 
-![sq](https://repo.x-cmd.io/sq.svg)
+![sq](https://repo.x-cmd.io/sq.svg?lang=zh)
 
 ## 安装
 
 ```sh
 x install sq
 ```
-
-## 源代码
-
-- **上游仓库**: <https://github.com/neilotoole/sq>
-- **官网**: <https://sq.io>
-- **许可证**: MIT
-
-## 发布
-
-- **最新版本**: `v0.55.0` (2026-09-10)
-- **最近提交**: 2026-09-10
-- **Release 含资产**: 14 个
-- **发布时间**: 2026-09-10T02:14:40Z
-
-## 流行度
-
-- **Star**: 2,561 · **Fork**: 41 · **开放 issue**: 286 · **贡献者**: 15
-
-## 累计统计
-
-- **发布数**: 91 · **已合并 PR**: 692 · **开放 PR**: 12 · **已关闭 issue**: 225 · **开放 issue**: 61 · **提交数**: 1627
-
-## 最近活动
-
-| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 51 | 7 | 6 | 5 | 68 |
-| 90d | 2026-06-12 | 3 | 228 | 9 | 48 | 26 | 281 |
-| 360d | 2025-09-15 | 13 | 403 | 12 | 122 | 51 | 889 |
 
 ## 代码规模
 
@@ -63,6 +34,67 @@ x install sq
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
 
+## 源代码
+
+- **上游仓库**: <https://github.com/neilotoole/sq>
+- **官网**: <https://sq.io>
+- **许可证**: MIT
+
+## 发布
+
+- **最新版本**: `v0.55.0` (2026-09-10)
+- **最近提交**: 2026-09-10
+- **Release 含资产**: 14 个
+
+## 流行度
+
+- **Star**: 2,564 · **Fork**: 41 · **开放 issue**: 287 · **贡献者**: 15
+
+## 累计统计
+
+- **发布数**: 91 · **已合并 PR**: 692 · **开放 PR**: 12 · **已关闭 issue**: 225 · **开放 issue**: 62 · **提交数**: 1628
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 1 | 51 | 7 | 6 | 6 | 69 |
+| last60d | 2026-07-12 | 1 | 87 | 7 | 6 | 6 | 123 |
+| 90d | 2026-06-12 | 3 | 228 | 9 | 48 | 27 | 282 |
+| last180d | 2026-03-14 | 7 | 383 | 12 | 115 | 49 | 806 |
+| 360d | 2025-09-15 | 13 | 403 | 12 | 122 | 52 | 890 |
+| last720d | 2024-09-20 | 15 | 425 | 12 | 139 | 53 | 992 |
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [checksums.txt](https://github.com/neilotoole/sq/releases/download/v0.55.0/checksums.txt) | 1.2 KiB | `other` |
+| [sq-0.55.0-linux-amd64.tar.gz](https://github.com/neilotoole/sq/releases/download/v0.55.0/sq-0.55.0-linux-amd64.tar.gz) | 39.6 MiB | `native/linux/x64` |
+| [sq-0.55.0-linux-arm64.tar.gz](https://github.com/neilotoole/sq/releases/download/v0.55.0/sq-0.55.0-linux-arm64.tar.gz) | 36.8 MiB | `native/linux/arm64` |
+| [sq-0.55.0-macos-amd64.tar.gz](https://github.com/neilotoole/sq/releases/download/v0.55.0/sq-0.55.0-macos-amd64.tar.gz) | 38.0 MiB | `native/darwin/x64` |
+| [sq-0.55.0-macos-arm64.tar.gz](https://github.com/neilotoole/sq/releases/download/v0.55.0/sq-0.55.0-macos-arm64.tar.gz) | 35.8 MiB | `native/darwin/arm64` |
+| [sq-0.55.0-windows-amd64.zip](https://github.com/neilotoole/sq/releases/download/v0.55.0/sq-0.55.0-windows-amd64.zip) | 39.6 MiB | `native/win/x64` |
+| [sq_0.55.0_linux_amd64.apk](https://github.com/neilotoole/sq/releases/download/v0.55.0/sq_0.55.0_linux_amd64.apk) | 41.1 MiB | `native/linux/x64` |
+| [sq_0.55.0_linux_amd64.deb](https://github.com/neilotoole/sq/releases/download/v0.55.0/sq_0.55.0_linux_amd64.deb) | 39.7 MiB | `native/linux/x64` |
+| [sq_0.55.0_linux_amd64.pkg.tar.zst](https://github.com/neilotoole/sq/releases/download/v0.55.0/sq_0.55.0_linux_amd64.pkg.tar.zst) | 37.5 MiB | `native/linux/x64` |
+| [sq_0.55.0_linux_amd64.rpm](https://github.com/neilotoole/sq/releases/download/v0.55.0/sq_0.55.0_linux_amd64.rpm) | 41.1 MiB | `native/linux/x64` |
+| [sq_0.55.0_linux_arm64.apk](https://github.com/neilotoole/sq/releases/download/v0.55.0/sq_0.55.0_linux_arm64.apk) | 37.8 MiB | `native/linux/arm64` |
+| [sq_0.55.0_linux_arm64.deb](https://github.com/neilotoole/sq/releases/download/v0.55.0/sq_0.55.0_linux_arm64.deb) | 36.9 MiB | `native/linux/arm64` |
+| [sq_0.55.0_linux_arm64.pkg.tar.zst](https://github.com/neilotoole/sq/releases/download/v0.55.0/sq_0.55.0_linux_arm64.pkg.tar.zst) | 34.4 MiB | `native/linux/arm64` |
+| [sq_0.55.0_linux_arm64.rpm](https://github.com/neilotoole/sq/releases/download/v0.55.0/sq_0.55.0_linux_arm64.rpm) | 37.8 MiB | `native/linux/arm64` |
+
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/sq) 上共有 **28** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**25** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Homebrew | `0.55.0` | ✅ latest |
+| Nix unstable | `0.54.1` | ⚠️ outdated |
+| Void | `0.48.5` | ⚠️ outdated |
+| Alpine edge | `0.48.11` | ⚠️ outdated |
+
 ## 改进这些数据
 
 sq 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `sq` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -72,4 +104,4 @@ sq 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:28:22Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T20:40:34Z._
