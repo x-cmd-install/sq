@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1226,
       "digest": "sha256:7c75d8b7401325843d618f9d3e733548d6cbeb621859ace533560d4d5e114da5",
-      "download_count": 17,
+      "download_count": 18,
       "created_at": "2026-09-10T02:14:38Z",
       "updated_at": "2026-09-10T02:14:38Z",
       "browser_download_url": "https://github.com/neilotoole/sq/releases/download/v0.55.0/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 41563834,
       "digest": "sha256:38d6bb91c0fafd15f99f4d84f5792804d5b44041696f929bdee1bd5ed76e4a28",
-      "download_count": 41,
+      "download_count": 52,
       "created_at": "2026-09-10T02:14:33Z",
       "updated_at": "2026-09-10T02:14:34Z",
       "browser_download_url": "https://github.com/neilotoole/sq/releases/download/v0.55.0/sq-0.55.0-linux-amd64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 38584417,
       "digest": "sha256:3a99e6b1ac6f2802ce620de453259b5fc9946f52c4b8ae13e93e0c9f2722dfcc",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-09-10T02:14:33Z",
       "updated_at": "2026-09-10T02:14:35Z",
       "browser_download_url": "https://github.com/neilotoole/sq/releases/download/v0.55.0/sq-0.55.0-linux-arm64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 37554343,
       "digest": "sha256:2fefea08a0005146cf85ed59c6625a9561b4ad85b25e06d6c63fbd2be1137e41",
-      "download_count": 41,
+      "download_count": 50,
       "created_at": "2026-09-10T02:14:34Z",
       "updated_at": "2026-09-10T02:14:36Z",
       "browser_download_url": "https://github.com/neilotoole/sq/releases/download/v0.55.0/sq-0.55.0-macos-arm64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 41518579,
       "digest": "sha256:306e386aad133151ea6b3c8472673bcab69f008fd8a3d0d528353210a47f6de1",
-      "download_count": 50,
+      "download_count": 59,
       "created_at": "2026-09-10T02:14:33Z",
       "updated_at": "2026-09-10T02:14:34Z",
       "browser_download_url": "https://github.com/neilotoole/sq/releases/download/v0.55.0/sq-0.55.0-windows-amd64.zip"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 39353377,
       "digest": "sha256:465919ae90d84c77716a869917e35574a844d9b3dfd220d1b127f08ad53b23d4",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-10T02:14:36Z",
       "updated_at": "2026-09-10T02:14:37Z",
       "browser_download_url": "https://github.com/neilotoole/sq/releases/download/v0.55.0/sq_0.55.0_linux_amd64.pkg.tar.zst"

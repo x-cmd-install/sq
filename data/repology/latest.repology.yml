@@ -1,29 +1,10 @@
-- repo: alpine_edge
-  subrepo: community
+- repo: homebrew
   srcname: sq
-  binname: sq-doc
-  visiblename: sq-doc
-  version: 0.48.11
-  origversion: 0.48.11-r5
-  status: outdated
-  summary: CLI tool that provides jq-style access to structured data sources (documentation)
-  maintainers:
-    - wanghao03@loongson.cn
-  licenses:
-    - MIT
-- repo: alpine_edge
-  subrepo: community
-  srcname: sq
-  binname: sq-fish-completion
-  visiblename: sq-fish-completion
-  version: 0.48.11
-  origversion: 0.48.11-r5
-  status: outdated
-  summary: Fish completions for sq
-  maintainers:
-    - wanghao03@loongson.cn
-  licenses:
-    - MIT
+  visiblename: sq
+  version: 0.55.0
+  origversion: null
+  status: newest
+  summary: Data wrangler with jq-like query language
 - repo: alpine_3_24
   subrepo: community
   srcname: sq
@@ -111,6 +92,32 @@
   origversion: 0.48.11-r5
   status: outdated
   summary: Bash completions for sq
+  maintainers:
+    - wanghao03@loongson.cn
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: community
+  srcname: sq
+  binname: sq-doc
+  visiblename: sq-doc
+  version: 0.48.11
+  origversion: 0.48.11-r5
+  status: outdated
+  summary: CLI tool that provides jq-style access to structured data sources (documentation)
+  maintainers:
+    - wanghao03@loongson.cn
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: community
+  srcname: sq
+  binname: sq-fish-completion
+  visiblename: sq-fish-completion
+  version: 0.48.11
+  origversion: 0.48.11-r5
+  status: outdated
+  summary: Fish completions for sq
   maintainers:
     - wanghao03@loongson.cn
   licenses:
@@ -219,13 +226,6 @@
     - olgeni@freebsd.org
   categories:
     - databases
-- repo: homebrew
-  srcname: sq
-  visiblename: sq
-  version: 0.55.0
-  origversion: null
-  status: newest
-  summary: Data wrangler with jq-like query language
 - repo: macports
   srcname: databases/sq
   binname: sq
@@ -298,9 +298,9 @@
 - repo: nix_unstable
   srcname: sq
   visiblename: sq
-  version: 0.54.1
+  version: 0.55.0
   origversion: null
-  status: outdated
+  status: newest
   summary: Swiss army knife for data
   maintainers:
     - iamanaws@httpd.dev
