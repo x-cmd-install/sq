@@ -14,13 +14,13 @@ x install sq
 
 ## Code insight
 
-Total: **1,995,172** lines of code across **889** files in the top 5 languages.
+Total: **1,995,329** lines of code across **890** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 1,349,377 | 0 | 0 | 16 |
 | Sql | 464,097 | 494 | 262 | 26 |
-| Go | 165,450 | 32,061 | 30,101 | 751 |
+| Go | 165,607 | 32,110 | 30,127 | 752 |
 | Html | 3,609 | 61 | 124 | 70 |
 | Sass | 3,067 | 389 | 670 | 26 |
 
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.55.0` (2026-09-10)
-- **Last commit**: 2026-09-10
+- **Last commit**: 2026-09-11
 - **Assets in release**: 14
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 91 · **Merged PRs**: 692 · **Open PRs**: 12 · **Closed issues**: 225 · **Open issues**: 62 · **Commits**: 1628
+- **Releases**: 91 · **Merged PRs**: 693 · **Open PRs**: 12 · **Closed issues**: 226 · **Open issues**: 61 · **Commits**: 1630
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 1 | 51 | 7 | 6 | 6 | 69 |
-| last60d | 2026-07-13 | 1 | 87 | 7 | 6 | 6 | 123 |
-| 90d | 2026-06-13 | 3 | 228 | 9 | 48 | 27 | 282 |
-| last180d | 2026-03-15 | 7 | 383 | 12 | 115 | 49 | 806 |
-| 360d | 2025-09-16 | 13 | 403 | 12 | 122 | 52 | 890 |
-| last720d | 2024-09-21 | 15 | 425 | 12 | 139 | 53 | 992 |
+| 30d | 2026-08-12 | 1 | 52 | 7 | 6 | 6 | 0 |
+| last60d | 2026-07-13 | 1 | 88 | 7 | 6 | 6 | 0 |
+| 90d | 2026-06-13 | 3 | 229 | 9 | 49 | 26 | 0 |
+| last180d | 2026-03-15 | 7 | 384 | 12 | 116 | 48 | 0 |
+| 360d | 2025-09-16 | 13 | 404 | 12 | 123 | 51 | 0 |
+| last720d | 2024-09-21 | 15 | 426 | 12 | 140 | 52 | 994 |
 
 ## Release assets
 
@@ -86,12 +86,12 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **28** distros on [repology.org](https://repology.org/project/sq). **3** are ✅ on the latest upstream release, **25** are ⚠️ on an older version.
+Reported by **28** distros on [repology.org](https://repology.org/project/sq). **4** are ✅ on the latest upstream release, **24** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Homebrew | `0.55.0` | ✅ latest |
-| Nix unstable | `0.54.1` | ⚠️ outdated |
+| Nix unstable | `0.55.0` | ✅ latest |
 | Void | `0.48.5` | ⚠️ outdated |
 | Alpine edge | `0.48.11` | ⚠️ outdated |
 
@@ -104,4 +104,4 @@ Install metadata for sq lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T05:21:09Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T19:40:20Z._
