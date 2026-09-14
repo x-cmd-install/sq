@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 62 | 8 | 6 | 9 | 70 |
-| last60d | 2026-07-15 | 1 | 97 | 8 | 6 | 9 | 118 |
-| 90d | 2026-06-15 | 3 | 236 | 10 | 48 | 29 | 216 |
-| last180d | 2026-03-17 | 7 | 394 | 13 | 116 | 51 | 818 |
-| 360d | 2025-09-18 | 13 | 414 | 13 | 123 | 54 | 902 |
-| last720d | 2024-09-23 | 15 | 436 | 13 | 140 | 55 | 1004 |
+| 30d | 2026-08-15 | 1 | 53 | 8 | 6 | 9 | 70 |
+| last60d | 2026-07-16 | 1 | 97 | 8 | 6 | 9 | 118 |
+| 90d | 2026-06-16 | 3 | 233 | 10 | 47 | 25 | 216 |
+| last180d | 2026-03-18 | 7 | 394 | 13 | 116 | 51 | 818 |
+| 360d | 2025-09-19 | 13 | 414 | 13 | 123 | 54 | 902 |
+| last720d | 2024-09-24 | 15 | 436 | 13 | 140 | 55 | 1004 |
 
 ## Release assets
 
@@ -84,17 +84,6 @@ Lowest-scoring checks:
 | [sq_0.55.0_linux_arm64.pkg.tar.zst](https://github.com/neilotoole/sq/releases/download/v0.55.0/sq_0.55.0_linux_arm64.pkg.tar.zst) | 34.4 MiB | `native/linux/arm64` |
 | [sq_0.55.0_linux_arm64.rpm](https://github.com/neilotoole/sq/releases/download/v0.55.0/sq_0.55.0_linux_arm64.rpm) | 37.8 MiB | `native/linux/arm64` |
 
-## Distribution status
-
-Reported by **28** distros on [repology.org](https://repology.org/project/sq). **5** are ✅ on the latest upstream release, **23** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.55.0` | ✅ latest |
-| Nix unstable | `0.55.0` | ✅ latest |
-| Void | `0.48.5` | ⚠️ outdated |
-| Alpine edge | `0.48.11` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for sq lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `sq` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -104,4 +93,4 @@ Install metadata for sq lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:33:47Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:36:57Z._
