@@ -14,13 +14,13 @@ x install sq
 
 ## Code insight
 
-Total: **1,995,305** lines of code across **890** files in the top 5 languages.
+Total: **1,996,918** lines of code across **900** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 1,349,377 | 0 | 0 | 16 |
 | Sql | 464,097 | 494 | 262 | 26 |
-| Go | 165,583 | 32,108 | 30,126 | 752 |
+| Go | 167,182 | 32,547 | 30,404 | 762 |
 | Html | 3,609 | 61 | 124 | 70 |
 | Sass | 3,067 | 389 | 670 | 26 |
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.55.0` (2026-09-10)
-- **Last commit**: 2026-09-12
+- **Last commit**: 2026-09-16
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 2,566 · **Forks**: 42 · **Open issues**: 290 · **Contributors**: 15
+- **Stars**: 2,566 · **Forks**: 42 · **Open issues**: 303 · **Contributors**: 15
 
 ## Totals (cumulative)
 
-- **Releases**: 91 · **Merged PRs**: 703 · **Open PRs**: 13 · **Closed issues**: 226 · **Open issues**: 64 · **Commits**: 1640
+- **Releases**: 91 · **Merged PRs**: 726 · **Open PRs**: 6 · **Closed issues**: 241 · **Open issues**: 62 · **Commits**: 1666
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 1 | 53 | 8 | 6 | 9 | 70 |
-| last60d | 2026-07-17 | 1 | 97 | 8 | 6 | 9 | 118 |
-| 90d | 2026-06-17 | 3 | 233 | 10 | 47 | 25 | 216 |
-| last180d | 2026-03-19 | 7 | 394 | 13 | 116 | 51 | 818 |
-| 360d | 2025-09-20 | 13 | 414 | 13 | 123 | 54 | 902 |
-| last720d | 2024-09-25 | 15 | 436 | 13 | 140 | 55 | 1004 |
+| 30d | 2026-08-17 | 1 | 76 | 1 | 20 | 8 | 96 |
+| last60d | 2026-07-18 | 1 | 112 | 1 | 20 | 8 | 144 |
+| 90d | 2026-06-18 | 3 | 254 | 3 | 59 | 23 | 242 |
+| last180d | 2026-03-20 | 7 | 417 | 6 | 131 | 49 | 844 |
+| 360d | 2025-09-21 | 13 | 437 | 6 | 138 | 52 | 928 |
+| last720d | 2024-09-26 | 15 | 459 | 6 | 155 | 53 | 1030 |
 
 ## Release assets
 
@@ -93,4 +93,4 @@ Install metadata for sq lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T05:39:30Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T05:49:03Z._
