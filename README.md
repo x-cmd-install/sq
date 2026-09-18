@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.55.0` (2026-09-10)
-- **Last commit**: 2026-09-16
+- **Last commit**: 2026-09-17
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 2,567 · **Forks**: 42 · **Open issues**: 304 · **Contributors**: 15
+- **Stars**: 2,567 · **Forks**: 43 · **Open issues**: 305 · **Contributors**: 15
 
 ## Totals (cumulative)
 
-- **Releases**: 91 · **Merged PRs**: 726 · **Open PRs**: 8 · **Closed issues**: 241 · **Open issues**: 63 · **Commits**: 1666
+- **Releases**: 91 · **Merged PRs**: 726 · **Open PRs**: 10 · **Closed issues**: 241 · **Open issues**: 64 · **Commits**: 1667
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-18 | 1 | 76 | 3 | 20 | 9 | 96 |
-| last60d | 2026-07-19 | 1 | 112 | 3 | 20 | 9 | 144 |
-| 90d | 2026-06-19 | 3 | 245 | 5 | 56 | 24 | 242 |
-| last180d | 2026-03-21 | 7 | 417 | 8 | 131 | 50 | 844 |
-| 360d | 2025-09-22 | 13 | 437 | 8 | 138 | 53 | 928 |
-| last720d | 2024-09-27 | 15 | 459 | 8 | 155 | 54 | 1030 |
+| 30d | 2026-08-19 | 1 | 76 | 5 | 20 | 10 | 97 |
+| last60d | 2026-07-20 | 1 | 112 | 5 | 20 | 10 | 145 |
+| 90d | 2026-06-20 | 2 | 229 | 6 | 51 | 24 | 243 |
+| last180d | 2026-03-22 | 7 | 417 | 10 | 131 | 51 | 845 |
+| 360d | 2025-09-23 | 13 | 437 | 10 | 138 | 54 | 929 |
+| last720d | 2024-09-28 | 15 | 459 | 10 | 155 | 55 | 1031 |
 
 ## Release assets
 
@@ -93,4 +93,4 @@ Install metadata for sq lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260917.yml` · 2026-09-17T05:43:00Z._
+_Snapshot: `data/card/260918.yml` · 2026-09-18T05:38:04Z._
