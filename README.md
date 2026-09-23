@@ -4,7 +4,7 @@
 
 sq data wrangler
 
-[![x-cmd/install — sq Code Quality Monitoring Repo Card](https://repo.x-cmd.io/sq.svg)](https://x-cmd.com/install/sq)
+[![x-cmd/install — sq Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/sq.svg)](https://x-cmd.com/install/sq)
 
 ## Install
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.55.0` (2026-09-10)
-- **Last commit**: 2026-09-19
+- **Last commit**: 2026-09-22
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 2,567 · **Forks**: 43 · **Open issues**: 305 · **Contributors**: 15
+- **Stars**: 2,567 · **Forks**: 43 · **Open issues**: 306 · **Contributors**: 15
 
 ## Totals (cumulative)
 
-- **Releases**: 91 · **Merged PRs**: 733 · **Open PRs**: 10 · **Closed issues**: 241 · **Open issues**: 64 · **Commits**: 1674
+- **Releases**: 91 · **Merged PRs**: 734 · **Open PRs**: 10 · **Closed issues**: 241 · **Open issues**: 65 · **Commits**: 1675
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 72 | 5 | 20 | 10 | 88 |
-| last60d | 2026-07-24 | 1 | 119 | 5 | 20 | 10 | 138 |
-| 90d | 2026-06-24 | 1 | 189 | 6 | 48 | 22 | 219 |
-| last180d | 2026-03-26 | 7 | 424 | 10 | 131 | 51 | 852 |
-| 360d | 2025-09-27 | 13 | 444 | 10 | 138 | 54 | 936 |
-| last720d | 2024-10-02 | 15 | 466 | 10 | 155 | 55 | 1038 |
+| 30d | 2026-08-24 | 1 | 73 | 6 | 20 | 11 | 89 |
+| last60d | 2026-07-25 | 1 | 109 | 6 | 20 | 11 | 139 |
+| 90d | 2026-06-25 | 1 | 190 | 7 | 48 | 23 | 220 |
+| last180d | 2026-03-27 | 7 | 425 | 10 | 131 | 52 | 853 |
+| 360d | 2025-09-28 | 13 | 445 | 10 | 138 | 55 | 937 |
+| last720d | 2024-10-03 | 15 | 467 | 10 | 155 | 56 | 1039 |
 
 ## Release assets
 
@@ -93,4 +93,4 @@ Install metadata for sq lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:56:23Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:55:18Z._
