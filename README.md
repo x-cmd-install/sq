@@ -30,7 +30,7 @@ Overall score: **6.2 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 1/23 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 1/11 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 1 | 77 | 6 | 20 | 11 | 95 |
-| last60d | 2026-07-30 | 1 | 121 | 6 | 20 | 11 | 141 |
-| 90d | 2026-06-30 | 1 | 175 | 7 | 29 | 19 | 195 |
-| last180d | 2026-04-01 | 7 | 437 | 10 | 131 | 52 | 866 |
-| 360d | 2025-10-03 | 13 | 457 | 10 | 138 | 55 | 950 |
-| last720d | 2024-10-08 | 15 | 478 | 10 | 150 | 55 | 1052 |
+| 30d | 2026-08-30 | 1 | 77 | 6 | 20 | 11 | 95 |
+| last60d | 2026-07-31 | 1 | 121 | 6 | 20 | 11 | 141 |
+| 90d | 2026-07-01 | 1 | 156 | 6 | 20 | 11 | 195 |
+| last180d | 2026-04-02 | 7 | 437 | 10 | 131 | 52 | 866 |
+| 360d | 2025-10-04 | 13 | 457 | 10 | 138 | 55 | 950 |
+| last720d | 2024-10-09 | 15 | 478 | 10 | 149 | 55 | 1052 |
 
 ## Release assets
 
@@ -93,4 +93,4 @@ Install metadata for sq lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T06:03:20Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T06:16:12Z._
