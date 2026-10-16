@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-15 | 0 | 52 | 6 | 4 | 6 | 50 |
-| last60d | 2026-08-16 | 1 | 117 | 7 | 20 | 11 | 147 |
-| 90d | 2026-07-17 | 1 | 161 | 7 | 20 | 11 | 201 |
-| last180d | 2026-04-18 | 7 | 452 | 11 | 130 | 52 | 875 |
-| 360d | 2025-10-20 | 13 | 478 | 11 | 138 | 55 | 979 |
-| last720d | 2024-10-25 | 15 | 491 | 11 | 148 | 55 | 1075 |
+| 30d | 2026-09-16 | 0 | 40 | 5 | 0 | 2 | 50 |
+| last60d | 2026-08-17 | 1 | 117 | 7 | 20 | 11 | 147 |
+| 90d | 2026-07-18 | 1 | 153 | 7 | 20 | 11 | 201 |
+| last180d | 2026-04-19 | 7 | 450 | 11 | 130 | 52 | 875 |
+| 360d | 2025-10-21 | 13 | 478 | 11 | 138 | 55 | 979 |
+| last720d | 2024-10-26 | 15 | 491 | 11 | 148 | 55 | 1075 |
 
 ## Release assets
 
@@ -93,4 +93,4 @@ Install metadata for sq lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261015.yml` · 2026-10-15T05:08:51Z._
+_Snapshot: `data/card/261016.yml` · 2026-10-16T05:11:15Z._
