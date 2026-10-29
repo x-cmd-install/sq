@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.55.0` (2026-09-10)
-- **Last commit**: 2026-10-24
+- **Last commit**: 2026-10-28
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 2,572 · **Forks**: 44 · **Open issues**: 322 · **Contributors**: 15
+- **Stars**: 2,574 · **Forks**: 45 · **Open issues**: 322 · **Contributors**: 15
 
 ## Totals (cumulative)
 
-- **Releases**: 91 · **Merged PRs**: 793 · **Open PRs**: 11 · **Closed issues**: 245 · **Open issues**: 77 · **Commits**: 1743
+- **Releases**: 91 · **Merged PRs**: 793 · **Open PRs**: 12 · **Closed issues**: 245 · **Open issues**: 77 · **Commits**: 1744
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 0 | 45 | 3 | 2 | 14 | 54 |
-| last60d | 2026-08-29 | 1 | 124 | 7 | 24 | 23 | 150 |
-| 90d | 2026-07-30 | 1 | 168 | 7 | 24 | 23 | 197 |
-| last180d | 2026-05-01 | 6 | 463 | 11 | 134 | 63 | 867 |
-| 360d | 2025-11-02 | 13 | 504 | 11 | 142 | 67 | 1005 |
-| last720d | 2024-11-07 | 15 | 517 | 11 | 151 | 67 | 1101 |
+| 30d | 2026-09-29 | 0 | 45 | 4 | 2 | 14 | 55 |
+| last60d | 2026-08-30 | 1 | 124 | 8 | 24 | 23 | 151 |
+| 90d | 2026-07-31 | 1 | 168 | 8 | 24 | 23 | 198 |
+| last180d | 2026-05-02 | 6 | 463 | 12 | 134 | 63 | 868 |
+| 360d | 2025-11-03 | 13 | 504 | 12 | 142 | 67 | 1006 |
+| last720d | 2024-11-08 | 15 | 517 | 12 | 151 | 67 | 1102 |
 
 ## Release assets
 
@@ -104,4 +104,4 @@ Install metadata for sq lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T06:20:48Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T06:17:06Z._
