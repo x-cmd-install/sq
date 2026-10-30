@@ -69,7 +69,7 @@
   binname: sq
   visiblename: sq
   version: 0.48.11
-  origversion: 0.48.11-r5
+  origversion: 0.48.11-r6
   status: outdated
   summary: CLI tool that provides jq-style access to structured data sources
   maintainers:
@@ -82,7 +82,7 @@
   binname: sq-bash-completion
   visiblename: sq-bash-completion
   version: 0.48.11
-  origversion: 0.48.11-r5
+  origversion: 0.48.11-r6
   status: outdated
   summary: Bash completions for sq
   maintainers:
@@ -95,7 +95,7 @@
   binname: sq-doc
   visiblename: sq-doc
   version: 0.48.11
-  origversion: 0.48.11-r5
+  origversion: 0.48.11-r6
   status: outdated
   summary: CLI tool that provides jq-style access to structured data sources (documentation)
   maintainers:
@@ -108,7 +108,7 @@
   binname: sq-fish-completion
   visiblename: sq-fish-completion
   version: 0.48.11
-  origversion: 0.48.11-r5
+  origversion: 0.48.11-r6
   status: outdated
   summary: Fish completions for sq
   maintainers:
@@ -121,7 +121,7 @@
   binname: sq-zsh-completion
   visiblename: sq-zsh-completion
   version: 0.48.11
-  origversion: 0.48.11-r5
+  origversion: 0.48.11-r6
   status: outdated
   summary: Zsh completions for sq
   maintainers:
