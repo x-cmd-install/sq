@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,574 · **Forks**: 45 · **Open issues**: 322 · **Contributors**: 15
+- **Stars**: 2,577 · **Forks**: 44 · **Open issues**: 322 · **Contributors**: 15
 
 ## Totals (cumulative)
 
-- **Releases**: 91 · **Merged PRs**: 793 · **Open PRs**: 12 · **Closed issues**: 245 · **Open issues**: 77 · **Commits**: 1745
+- **Releases**: 91 · **Merged PRs**: 793 · **Open PRs**: 13 · **Closed issues**: 245 · **Open issues**: 77 · **Commits**: 1745
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 0 | 45 | 4 | 2 | 14 | 56 |
-| last60d | 2026-08-31 | 1 | 124 | 8 | 24 | 23 | 152 |
-| 90d | 2026-08-01 | 1 | 160 | 8 | 24 | 23 | 199 |
-| last180d | 2026-05-03 | 6 | 463 | 12 | 134 | 63 | 869 |
-| 360d | 2025-11-04 | 13 | 504 | 12 | 142 | 67 | 1007 |
-| last720d | 2024-11-09 | 15 | 517 | 12 | 151 | 67 | 1103 |
+| 30d | 2026-10-01 | 0 | 45 | 5 | 2 | 14 | 56 |
+| last60d | 2026-09-01 | 1 | 124 | 9 | 24 | 23 | 152 |
+| 90d | 2026-08-02 | 1 | 160 | 9 | 24 | 23 | 199 |
+| last180d | 2026-05-04 | 6 | 463 | 13 | 134 | 63 | 869 |
+| 360d | 2025-11-05 | 13 | 504 | 13 | 142 | 67 | 1007 |
+| last720d | 2024-11-10 | 15 | 517 | 13 | 151 | 67 | 1103 |
 
 ## Release assets
 
@@ -86,14 +86,14 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **28** distros on [repology.org](https://repology.org/project/sq). **6** are ✅ on the latest upstream release, **22** are ⚠️ on an older version.
+Reported by **28** distros on [repology.org](https://repology.org/project/sq). **11** are ✅ on the latest upstream release, **17** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Homebrew | `0.55.0` | ✅ latest |
 | Nix unstable | `0.55.0` | ✅ latest |
 | Void | `0.48.5` | ⚠️ outdated |
-| Alpine edge | `0.48.11` | ⚠️ outdated |
+| Alpine edge | `0.55.0` | ✅ latest |
 
 ## Improve this data
 
@@ -104,4 +104,4 @@ Install metadata for sq lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T06:23:30Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T06:10:42Z._
