@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.55.0` (2026-09-10)
-- **Last commit**: 2026-10-31
+- **Last commit**: 2026-11-01
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 2,576 · **Forks**: 44 · **Open issues**: 322 · **Contributors**: 15
+- **Stars**: 2,574 · **Forks**: 44 · **Open issues**: 322 · **Contributors**: 15
 
 ## Totals (cumulative)
 
-- **Releases**: 91 · **Merged PRs**: 803 · **Open PRs**: 14 · **Closed issues**: 245 · **Open issues**: 77 · **Commits**: 1756
+- **Releases**: 91 · **Merged PRs**: 803 · **Open PRs**: 14 · **Closed issues**: 245 · **Open issues**: 77 · **Commits**: 1757
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 0 | 55 | 6 | 2 | 14 | 52 |
-| last60d | 2026-09-02 | 1 | 134 | 10 | 24 | 23 | 139 |
-| 90d | 2026-08-03 | 1 | 170 | 10 | 24 | 23 | 199 |
-| last180d | 2026-05-05 | 6 | 473 | 14 | 134 | 63 | 754 |
-| 360d | 2025-11-06 | 13 | 514 | 14 | 142 | 67 | 1018 |
-| last720d | 2024-11-11 | 15 | 527 | 14 | 151 | 67 | 1114 |
+| 30d | 2026-10-03 | 0 | 45 | 6 | 2 | 14 | 53 |
+| last60d | 2026-09-03 | 1 | 134 | 10 | 24 | 23 | 140 |
+| 90d | 2026-08-04 | 1 | 169 | 10 | 24 | 23 | 200 |
+| last180d | 2026-05-06 | 6 | 473 | 14 | 134 | 63 | 755 |
+| 360d | 2025-11-07 | 13 | 514 | 14 | 142 | 67 | 1019 |
+| last720d | 2024-11-12 | 15 | 527 | 14 | 151 | 67 | 1115 |
 
 ## Release assets
 
@@ -104,4 +104,4 @@ Install metadata for sq lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T06:38:16Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T06:49:46Z._
