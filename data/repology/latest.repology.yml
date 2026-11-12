@@ -1,3 +1,12 @@
+- repo: scoop
+  subrepo: main
+  binname: sq
+  visiblename: sq
+  version: 0.55.0
+  origversion: null
+  status: newest
+  licenses:
+    - MIT
 - repo: void_x86_64
   subrepo: x86_64
   srcname: sq
@@ -22,17 +31,6 @@
   summary: CLI tool that provides jq-style access to structured data sources
   maintainers:
     - wanghao03@loongson.cn
-  licenses:
-    - MIT
-- repo: chimera
-  subrepo: user
-  srcname: sq
-  binname: sq-doc
-  visiblename: sq-doc
-  version: 0.50.0
-  origversion: 0.50.0-r6
-  status: outdated
-  summary: Tool to inspect, query, join, import, and export structured data (documentation)
   licenses:
     - MIT
 - repo: alpine_3_24
@@ -190,6 +188,17 @@
 - repo: chimera
   subrepo: user
   srcname: sq
+  binname: sq-doc
+  visiblename: sq-doc
+  version: 0.50.0
+  origversion: 0.50.0-r6
+  status: outdated
+  summary: Tool to inspect, query, join, import, and export structured data (documentation)
+  licenses:
+    - MIT
+- repo: chimera
+  subrepo: user
+  srcname: sq
   binname: sq-fishcomp
   visiblename: sq-fishcomp
   version: 0.50.0
@@ -225,7 +234,7 @@
   binname: sq
   visiblename: databases/sq
   version: 0.55.0
-  origversion: 0.55.0_2
+  origversion: 0.55.0_3
   status: newest
   summary: CLI tool for querying multiple databases and data formats
   maintainers:
@@ -317,14 +326,5 @@
   summary: Swiss army knife for data
   maintainers:
     - iamanaws@httpd.dev
-  licenses:
-    - MIT
-- repo: scoop
-  subrepo: main
-  binname: sq
-  visiblename: sq
-  version: 0.55.0
-  origversion: null
-  status: newest
   licenses:
     - MIT
