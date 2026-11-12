@@ -14,13 +14,13 @@ x install sq
 
 ## Code insight
 
-Total: **1,997,012** lines of code across **901** files in the top 5 languages.
+Total: **1,997,350** lines of code across **904** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 1,349,380 | 0 | 0 | 16 |
 | Sql | 464,097 | 494 | 262 | 26 |
-| Go | 167,238 | 32,562 | 30,416 | 763 |
+| Go | 167,573 | 32,572 | 30,482 | 766 |
 | Html | 3,609 | 61 | 124 | 70 |
 | Sass | 3,067 | 389 | 670 | 26 |
 
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.55.0` (2026-09-10)
-- **Last commit**: 2026-11-07
+- **Last commit**: 2026-11-12
 - **Assets in release**: 14
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 91 · **Merged PRs**: 813 · **Open PRs**: 13 · **Closed issues**: 245 · **Open issues**: 78 · **Commits**: 1770
+- **Releases**: 91 · **Merged PRs**: 816 · **Open PRs**: 10 · **Closed issues**: 245 · **Open issues**: 78 · **Commits**: 1774
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 0 | 44 | 5 | 2 | 15 | 53 |
-| last60d | 2026-09-12 | 0 | 108 | 8 | 13 | 20 | 105 |
-| 90d | 2026-08-13 | 1 | 172 | 9 | 24 | 24 | 200 |
-| last180d | 2026-05-15 | 5 | 468 | 13 | 128 | 61 | 595 |
-| 360d | 2025-11-16 | 13 | 524 | 13 | 142 | 68 | 1032 |
-| last720d | 2024-11-21 | 15 | 532 | 13 | 151 | 68 | 1116 |
+| 30d | 2026-10-13 | 0 | 46 | 3 | 2 | 15 | 57 |
+| last60d | 2026-09-13 | 0 | 111 | 5 | 13 | 20 | 109 |
+| 90d | 2026-08-14 | 1 | 175 | 6 | 24 | 24 | 204 |
+| last180d | 2026-05-16 | 5 | 467 | 9 | 124 | 59 | 599 |
+| 360d | 2025-11-17 | 13 | 527 | 10 | 142 | 68 | 1036 |
+| last720d | 2024-11-22 | 15 | 535 | 10 | 151 | 68 | 1120 |
 
 ## Release assets
 
@@ -104,4 +104,4 @@ Install metadata for sq lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T06:55:36Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T08:06:14Z._
