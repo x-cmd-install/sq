@@ -58,12 +58,12 @@ x install sq
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 50 | 5 | 1 | 10 | 63 |
-| last60d | 2026-09-25 | 0 | 108 | 6 | 5 | 22 | 120 |
-| 90d | 2026-08-26 | 1 | 183 | 9 | 27 | 31 | 215 |
-| last180d | 2026-05-28 | 3 | 442 | 12 | 115 | 63 | 525 |
-| 360d | 2025-11-29 | 13 | 556 | 13 | 144 | 76 | 1070 |
-| last720d | 2024-12-04 | 14 | 561 | 13 | 148 | 76 | 1149 |
+| 30d | 2026-10-26 | 0 | 50 | 5 | 1 | 10 | 63 |
+| last60d | 2026-09-26 | 0 | 96 | 6 | 5 | 22 | 120 |
+| 90d | 2026-08-27 | 1 | 183 | 9 | 27 | 31 | 215 |
+| last180d | 2026-05-29 | 3 | 442 | 12 | 115 | 63 | 525 |
+| 360d | 2025-11-30 | 13 | 556 | 13 | 144 | 76 | 1070 |
+| last720d | 2024-12-05 | 14 | 561 | 13 | 148 | 76 | 1149 |
 
 ## Release 资产
 
@@ -84,17 +84,6 @@ x install sq
 | [sq_0.55.0_linux_arm64.pkg.tar.zst](https://github.com/neilotoole/sq/releases/download/v0.55.0/sq_0.55.0_linux_arm64.pkg.tar.zst) | 34.4 MiB | `native/linux/arm64` |
 | [sq_0.55.0_linux_arm64.rpm](https://github.com/neilotoole/sq/releases/download/v0.55.0/sq_0.55.0_linux_arm64.rpm) | 37.8 MiB | `native/linux/arm64` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/sq) 上共有 **28** 个发行版报告此项目。**11** 个 ✅ 已是最新上游版本，**17** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Homebrew | `0.55.0` | ✅ latest |
-| Nix unstable | `0.55.0` | ✅ latest |
-| Void | `0.48.5` | ⚠️ outdated |
-| Alpine edge | `0.55.0` | ✅ latest |
-
 ## 改进这些数据
 
 sq 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `sq` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -104,4 +93,4 @@ sq 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T11:27:27Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T09:45:35Z._
